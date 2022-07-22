@@ -1,3 +1,4 @@
+# Прослушал вебинар несколько раз, выполнить задание сам не смог.
 from random import randint
 class Dot:
     def __init__(self, x, y):
